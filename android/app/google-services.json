@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681556435778",
+    "project_id": "playdate-afca4",
+    "storage_bucket": "playdate-afca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681556435778:android:f02e597d38b5ac90325edb",
+        "android_client_info": {
+          "package_name": "com.example.doggy_tinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCObV4bP1TR9W8rA1Ui8LWvjd_z-Fl2rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
