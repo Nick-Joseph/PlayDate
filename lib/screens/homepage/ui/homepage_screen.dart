@@ -1,4 +1,4 @@
-import 'package:doggy_tinder/widgets/custom_B_Nav.dart';
+import 'package:PlayDate/widgets/custom_B_Nav.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';

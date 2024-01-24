@@ -1,4 +1,4 @@
-import 'package:doggy_tinder/widgets/custom_B_Nav.dart';
+import 'package:PlayDate/widgets/custom_B_Nav.dart';
 import 'package:flutter/material.dart';
 
 class NotificationScreen extends StatefulWidget {

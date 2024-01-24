@@ -1,6 +1,6 @@
 {
-    "name": "doggy_tinder",
-    "short_name": "doggy_tinder",
+    "name": "PlayDate",
+    "short_name": "PlayDate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

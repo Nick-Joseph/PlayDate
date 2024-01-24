@@ -1,4 +1,4 @@
-package com.example.doggy_tinder
+package com.example.PlayDate
 
 import io.flutter.embedding.android.FlutterActivity
 
